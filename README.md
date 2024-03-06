@@ -1,4 +1,4 @@
-Parte 1:
+Parte 1 (numero primo):
 
 i : entero
 n : entero
@@ -14,8 +14,6 @@ inicio
 fin
 
 
-
-
 ![image](https://github.com/Urrego1/Reto_3/assets/159048641/1d131877-a5b5-43a1-8540-e190eae53ea5)
 
 
@@ -23,9 +21,7 @@ fin
 
 
 
-
-
-Parte 2: 
+Parte 2 (Raiz): 
 
 x: entero
 n: entero
@@ -40,3 +36,6 @@ inicio
 
 3. Devolver `x` como la aproximación de la raíz cuadrada de `n`.
 fin
+
+
+![image](https://github.com/Urrego1/Reto_3/assets/159048641/c850992b-630e-425d-b5d4-4c6270ca1281)
